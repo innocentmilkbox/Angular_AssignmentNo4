@@ -1,0 +1,9 @@
+.whiterow {
+    background-color: white;
+    cursor: pointer;
+}
+
+.blackrow {
+    background-color: black;
+    cursor: pointer;
+}
